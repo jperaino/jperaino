@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 I'm a software engineer and designer. 
+
+- 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering
+
 
 <!--
 **jperaino/jperaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
