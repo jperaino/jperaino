@@ -1,6 +1,10 @@
-### 👋 I'm a software engineer and designer. 
+### 👋  I'm a software engineer and designer. 
 
-- 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering
+- 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering as CTO
+- 🧪 Working with interactive data visualization, 3D animation, spatial analysis, AEC tech
+
+React, Typescript, Node.js, D3.js, Three.js, Firebase
+
 
 
 <!--
