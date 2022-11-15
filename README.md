@@ -1,4 +1,4 @@
-### 👋  I'm a software engineer and design technologist. 
+### 👋  I'm a software engineer and design technologist 
 
 - 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering as CTO
 - 🧪 Working with interactive data visualization, 3D animation, spatial analysis, AEC tech
