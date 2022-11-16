@@ -1,7 +1,8 @@
 ### 👋  I'm a software engineer and design technologist 
 
-- 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering as CTO
-- 🧪 Working with interactive data visualization, 3D animation, spatial analysis, AEC tech
+- 🔭 I co-founded [Spatio Metrics](http://www.spatiometrics.com), where I lead design and engineering as CTO.
+- 🧪 I'm currently working with interactive data visualization, 3D animation, spatial analysis, and AEC tech.
+- 🏗️ You can check out work from my past life as an architect [here](http://www.jimperaino.com). 
 
 React, Typescript, Node.js, D3.js, Three.js, Firebase
 
